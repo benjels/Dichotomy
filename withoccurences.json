@@ -1,0 +1,2358 @@
+[
+  {
+    "articleID": "12712954",
+    "issue": "A_Missing_New_Zealand_Steamer._Supposed_To_Have_Foundered_At_Sea..Json",
+    "nzness": 18,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Invercargill": 1
+      },
+      {
+        "Auckland": 3
+      },
+      {
+        "Auckland Islands": 1
+      },
+      {
+        "Auckland Island": 3
+      },
+      {
+        "Kakanui": 9
+      }
+    ],
+    "wordCount": 475
+  },
+  {
+    "articleID": "8844613",
+    "issue": "A_Few_Reminiscences_Of_The_Late_William_Thompson._(From_The_New_Zealander,_February_9Th.).Json",
+    "nzness": 13,
+    "topicsAUS": [
+      {
+        "The Fat": 1
+      },
+      {
+        "Be Here": 1
+      },
+      {
+        "Taken for Granted": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Colony of New Zealand": 1
+      },
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 5
+      },
+      {
+        "Taranaki": 1
+      },
+      {
+        "Waikato": 4
+      },
+      {
+        "Tauranga": 2
+      },
+      {
+        "Bay of Plenty": 2
+      }
+    ],
+    "wordCount": 1592
+  },
+  {
+    "articleID": "9393220",
+    "issue": "A_New_Track_Through_South_New_Zealand._[Southland_Daily_News.].Json",
+    "nzness": 9,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Te Anau": 1
+      },
+      {
+        "New Zealand": 4
+      },
+      {
+        "Secretary Island": 1
+      },
+      {
+        "Manapouri": 3
+      }
+    ],
+    "wordCount": 723
+  },
+  {
+    "articleID": "8856615",
+    "issue": "A_Run_For_Life._A_Touching_Episode_Of_The_New_Zealand_War..Json",
+    "nzness": 8,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Haka": 2
+      },
+      {
+        "Te Arai River": 1
+      },
+      {
+        "Astar": 1
+      },
+      {
+        "Te Kooti": 2
+      },
+      {
+        "Rai River": 1
+      }
+    ],
+    "wordCount": 967
+  },
+  {
+    "articleID": "11466263",
+    "issue": "A_New_Zealand_Tragedy._Accused_Enjoined_To_Qcheer_Up.Q_Q_Wellington,_March_26..Json",
+    "nzness": 6,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 3
+      },
+      {
+        "New Zealand": 2
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 222
+  },
+  {
+    "articleID": "9209510",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland_March_27..Json",
+    "nzness": 5,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 2
+      },
+      {
+        "Bank of New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 144
+  },
+  {
+    "articleID": "12329345",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._The_General_Elections._Strength_Of_Parties._Prohibitionist_Set-Back._Wellington,_December_7..Json",
+    "nzness": 5,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      },
+      {
+        "TND": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Invercargill": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Dunedin": 1
+      },
+      {
+        "Mataura": 1
+      },
+      {
+        "Oamaru": 1
+      },
+      {
+        "South Island": 1
+      },
+      {
+        "Christchurch": 1
+      }
+    ],
+    "wordCount": 805
+  },
+  {
+    "articleID": "12835734",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand._The_Reciprocity_Treaty._Ratification_Decidedly_Improbable._Wellington,_August_31..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Australia": 2
+      },
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 2
+      },
+      {
+        "New Zealand": 2
+      },
+      {
+        "Joseph Ward": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "South Island": 1
+      }
+    ],
+    "wordCount": 334
+  },
+  {
+    "articleID": "12300786",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand._Wellington,_April_27..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Myer": 1
+      },
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 3
+      },
+      {
+        "Arthur Myers": 1
+      }
+    ],
+    "wordCount": 168
+  },
+  {
+    "articleID": "12263758",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand._Wellington,_March_23..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Taranaki": 1
+      },
+      {
+        "Wellington": 2
+      },
+      {
+        "Otago": 1
+      }
+    ],
+    "wordCount": 344
+  },
+  {
+    "articleID": "11406778",
+    "issue": "A_Clever_Trap._How_The_New_Zealanders_Scored._London,_August_24..Json",
+    "nzness": 4,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "New Zealanders": 2
+      }
+    ],
+    "wordCount": 89
+  },
+  {
+    "articleID": "9405132",
+    "issue": "A_Favourable_Opinion_Of_New_Zealand..Json",
+    "nzness": 4,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 4
+      }
+    ],
+    "wordCount": 58
+  },
+  {
+    "articleID": "10104345",
+    "issue": "A_Great_Journey._From_Australia_To_New_Zealand._The_White-Eyes_Adventures..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Australia": 4
+      },
+      {
+        "Emu": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 4
+      },
+      {
+        "North Island": 1
+      },
+      {
+        "Kea": 1
+      },
+      {
+        "Cook Strait": 1
+      },
+      {
+        "South Island": 1
+      }
+    ],
+    "wordCount": 844
+  },
+  {
+    "articleID": "13287569",
+    "issue": "A_New_Zealanderqs_Experience..Json",
+    "nzness": 4,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 2
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Niue": 1
+      }
+    ],
+    "wordCount": 241
+  },
+  {
+    "articleID": "9916462",
+    "issue": "A_New_Zealand_Arbitration_Court..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Australia": 1
+      },
+      {
+        "ACTION": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Lower Hutt": 1
+      },
+      {
+        "Wellington": 4
+      }
+    ],
+    "wordCount": 1974
+  },
+  {
+    "articleID": "12820207",
+    "issue": "A_New_Zealand_Tragedy._Attempted_Murder_And_Suicide._(Qargusq_Correspondent.Q)_Dunedin,_November_5..Json",
+    "nzness": 4,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Otago": 1
+      },
+      {
+        "Dunedin": 2
+      }
+    ],
+    "wordCount": 510
+  },
+  {
+    "articleID": "8811374",
+    "issue": "A_Night_With_New_Zealanders..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Emu": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Orere River": 1
+      },
+      {
+        "New Zealanders": 1
+      },
+      {
+        "New Zealand": 2
+      },
+      {
+        "Aorere River": 1
+      }
+    ],
+    "wordCount": 818
+  },
+  {
+    "articleID": "9997455",
+    "issue": "A_Projected_Ferry_Service_New_Zealands_Problem._Wellington,_October_20..Json",
+    "nzness": 4,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Joseph Ward": 1
+      },
+      {
+        "Wellington": 2
+      }
+    ],
+    "wordCount": 62
+  },
+  {
+    "articleID": "13281687",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_August_1..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Taranaki": 1
+      },
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Christchurch": 1
+      },
+      {
+        "Dunedin": 1
+      }
+    ],
+    "wordCount": 107
+  },
+  {
+    "articleID": "9312180",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_August_10..Json",
+    "nzness": 4,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      },
+      {
+        "Adelaide": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Reefton": 1
+      },
+      {
+        "Auckland": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Kaikoura": 1
+      },
+      {
+        "Dunedin": 1
+      }
+    ],
+    "wordCount": 165
+  },
+  {
+    "articleID": "12707578",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_November_4..Json",
+    "nzness": 4,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 2
+      },
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 147
+  },
+  {
+    "articleID": "9917978",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand,_Arbitration_Courtqs_Fines._Strikers_Cannot_Pay._Wellington,_March_11..Json",
+    "nzness": 3,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Wellington": 1
+      },
+      {
+        "Mataura": 1
+      },
+      {
+        "Christchurch": 2
+      }
+    ],
+    "wordCount": 196
+  },
+  {
+    "articleID": "10250900",
+    "issue": "A_Chain_Of_Wireless._New_Zealandqs_Stations._Linking_Of_Australasia..Json",
+    "nzness": 3,
+    "topicsAUS": [
+      {
+        "Fremantle": 1
+      },
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 3
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 684
+  },
+  {
+    "articleID": "10285681",
+    "issue": "A_Cyclonic_Storm._Damage_In_New_Zealand._Wellington,_May_20..Json",
+    "nzness": 3,
+    "topicsAUS": [
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Union Company": 1
+      }
+    ],
+    "wordCount": 87
+  },
+  {
+    "articleID": "10123006",
+    "issue": "A_Gale_In_New_Zealand._Considerable_Damage_To_Buildings._Wellington,_December_7..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Christchurch": 1
+      }
+    ],
+    "wordCount": 74
+  },
+  {
+    "articleID": "9989754",
+    "issue": "A_Mysterious_Airship._Seen_In_New_Zealand._Wellington,_July_30..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "South Island": 1
+      }
+    ],
+    "wordCount": 138
+  },
+  {
+    "articleID": "23704218",
+    "issue": "A_New_Comet._Discovery_Reported_In_New_Zealand_Wellington,_December_5..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 72
+  },
+  {
+    "articleID": "12786059",
+    "issue": "A_New_Zealanderqs_Debut..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "New Zealanders": 1
+      }
+    ],
+    "wordCount": 25
+  },
+  {
+    "articleID": "12725305",
+    "issue": "A_New_Zealand_Advocate..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "Julius Vogel": 1
+      }
+    ],
+    "wordCount": 37
+  },
+  {
+    "articleID": "12274761",
+    "issue": "A_New_Zealand_Appeal_Case..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 85
+  },
+  {
+    "articleID": "9939216",
+    "issue": "A_New_Zealand_Chief..Json",
+    "nzness": 3,
+    "topicsAUS": [
+      {
+        "Larrikin": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Haka": 2
+      },
+      {
+        "Iwi": 1
+      }
+    ],
+    "wordCount": 984
+  },
+  {
+    "articleID": "10415167",
+    "issue": "A_New_Zealand_Murder._Trial_Of_The_Accused_Auckland_(N.Z.),_May_28..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Kea": 2
+      }
+    ],
+    "wordCount": 120
+  },
+  {
+    "articleID": "10363351",
+    "issue": "A_New_Zealand_Tragedy._Death_Of_A_Woman._Son_Charged_Wtth_Murder._Wellington_(N.Z.),_February_25..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Christchurch": 1
+      }
+    ],
+    "wordCount": 145
+  },
+  {
+    "articleID": "10430418",
+    "issue": "A_New_Zealand_Tragedy._Man_Murdered_In_His_Home._Auckland,_September_26..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 2
+      },
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 88
+  },
+  {
+    "articleID": "1050018",
+    "issue": "A_New_Zealand_Tragedy._Wellington,_March_14..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Invercargill": 1
+      }
+    ],
+    "wordCount": 104
+  },
+  {
+    "articleID": "12291377",
+    "issue": "A_Rejected_Immigrant._The_New_Zealander,_Harper..Json",
+    "nzness": 3,
+    "topicsAUS": [
+      {
+        "Viewed": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 4
+      }
+    ],
+    "wordCount": 216
+  },
+  {
+    "articleID": "9319048",
+    "issue": "A_Splendid_Price_For_New_Zealand_Mutton..Json",
+    "nzness": 3,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 3
+      }
+    ],
+    "wordCount": 62
+  },
+  {
+    "articleID": "9202052",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_Nov._27..Json",
+    "nzness": 3,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      },
+      {
+        "Spirited": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "Christchurch": 1
+      },
+      {
+        "Dunedin": 1
+      },
+      {
+        "Rotorua": 1
+      },
+      {
+        "South Island": 1
+      }
+    ],
+    "wordCount": 215
+  },
+  {
+    "articleID": "23751716",
+    "issue": "44-Hour_Week._Demand_In_New_Zealand..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "On the Mat": 1
+      }
+    ],
+    "wordCount": 106
+  },
+  {
+    "articleID": "23665299",
+    "issue": "A_Caustic_Critic._Archbishop_On_New_Zealand._Its_Moral_And_Spiritual_Condition._Wellington,_September_25..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "E Street": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Christchurch": 1
+      }
+    ],
+    "wordCount": 149
+  },
+  {
+    "articleID": "10071114",
+    "issue": "A_Fast_Of_52_Days._Remarkable_Case_In_New_Zealand._Wellington,_August_4..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Wellington": 2
+      }
+    ],
+    "wordCount": 96
+  },
+  {
+    "articleID": "9575366",
+    "issue": "A_Fatal_Earthquake_In_New_Zealand._Prayers_In_The_Streets._Houses_Demolished._Wellington,_Monday..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "E Street": 1
+      },
+      {
+        "Devastated": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Christchurch": 2
+      }
+    ],
+    "wordCount": 575
+  },
+  {
+    "articleID": "23615321",
+    "issue": "A_Fatal_Explosion_New_Zealanderqs_Death_In_England._London,_February_1..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 53
+  },
+  {
+    "articleID": "9976734",
+    "issue": "A_Fire_In_New_Zealand._Auckland,_March_10..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 26
+  },
+  {
+    "articleID": "9994807",
+    "issue": "A_Fire_In_New_Zealand._Wellington,_September_20..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Wellington": 2
+      }
+    ],
+    "wordCount": 34
+  },
+  {
+    "articleID": "10231800",
+    "issue": "A_Lesson_From_New_Zealand..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Australia": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 4
+      }
+    ],
+    "wordCount": 1085
+  },
+  {
+    "articleID": "10222527",
+    "issue": "A_Mistaken_Charge._New_Zealander_In_Trouble._London._May_14..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "TEAL": 1
+      }
+    ],
+    "wordCount": 88
+  },
+  {
+    "articleID": "10423960",
+    "issue": "A_National_Ministry._Formation_In_New_Zealand._Wellington,_August_5..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 112
+  },
+  {
+    "articleID": "10413603",
+    "issue": "A_New_Zealander_Wounded._London._May_14..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 24
+  },
+  {
+    "articleID": "9985720",
+    "issue": "A_New_Zealand_Aeroplane_To_Be_Offered_To_The_Imperial_Government._Wellington,_June_20..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Wellington": 1
+      },
+      {
+        "Christchurch": 1
+      }
+    ],
+    "wordCount": 37
+  },
+  {
+    "articleID": "12780777",
+    "issue": "A_New_Zealand_Appeal..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 32
+  },
+  {
+    "articleID": "10092285",
+    "issue": "A_New_Zealand_Aviator._Successful_Flight..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Sols": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 2
+      },
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 495
+  },
+  {
+    "articleID": "10293310",
+    "issue": "A_New_Zealand_By-Election_Influence_Of_Sectarianism._Wellington,_July_23..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 103
+  },
+  {
+    "articleID": "10233075",
+    "issue": "A_New_Zealand_Case..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 55
+  },
+  {
+    "articleID": "13294458",
+    "issue": "A_New_Zealand_Champion..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 32
+  },
+  {
+    "articleID": "12819907",
+    "issue": "A_New_Zealand_Company..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 20
+  },
+  {
+    "articleID": "23666081",
+    "issue": "A_New_Zealand_Conference._Suggested_Visits_By_Champions._Wellington,_October_29..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Australia": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 3
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 89
+  },
+  {
+    "articleID": "12255677",
+    "issue": "A_New_Zealand_Defaulting_Mine_Secretary..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 53
+  },
+  {
+    "articleID": "10105945",
+    "issue": "A_New_Zealand_Endorsement..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Herekino": 1
+      }
+    ],
+    "wordCount": 84
+  },
+  {
+    "articleID": "10407147",
+    "issue": "A_New_Zealand_Fire._Commercial_Travellerqs_Sensational_Evidence._Wellington,_March_18..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Oamaru": 1
+      }
+    ],
+    "wordCount": 137
+  },
+  {
+    "articleID": "12312124",
+    "issue": "A_New_Zealand_Gift..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 43
+  },
+  {
+    "articleID": "23546848",
+    "issue": "A_New_Zealand_Loan._Wellington_(N.Z.),_April_3..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 85
+  },
+  {
+    "articleID": "12300865",
+    "issue": "A_Romantic_Marriage._A_Princeqs_Wedding_To_A_New_Zealand_Girl._(Qchristchurch_Pressq_Correspondent.)_London,_March_4..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Ttn": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "Christchurch": 1
+      }
+    ],
+    "wordCount": 929
+  },
+  {
+    "articleID": "10066880",
+    "issue": "A_Rubber_Substitute._New_Zealand_Inventorqs_Claim._Wellington_(N.Z.),_June_27..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 47
+  },
+  {
+    "articleID": "23683648",
+    "issue": "A_Sister_Dominion._Welcome_From_New_Zealand_Representative._(A.P.A.)_London,_September_11..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 75
+  },
+  {
+    "articleID": "9308770",
+    "issue": "[From_Dunedin_Papers._New_Zealand._Dunedin,_October_22..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Wellington": 1
+      },
+      {
+        "Tophouse": 1
+      }
+    ],
+    "wordCount": 432
+  },
+  {
+    "articleID": "13265932",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_April_25..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Melbourne": 2
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "Wairau River": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      },
+      {
+        "Robert Stout": 1
+      }
+    ],
+    "wordCount": 139
+  },
+  {
+    "articleID": "9305448",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_August_7..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "Iwi": 1
+      },
+      {
+        "Kea": 1
+      }
+    ],
+    "wordCount": 130
+  },
+  {
+    "articleID": "9198174",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_September_17..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Melbourne": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 2
+      },
+      {
+        "Wairarapa": 1
+      }
+    ],
+    "wordCount": 135
+  },
+  {
+    "articleID": "9100443",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._The_German_Flag_Hoisted_At_Apia._Wellington,_February_10..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 166
+  },
+  {
+    "articleID": "9207328",
+    "issue": "[From_Melbourne_Papers._New_Zealand._Auckland,_February_21..Json",
+    "nzness": 2,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Harry Atkinson": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 109
+  },
+  {
+    "articleID": "8983611",
+    "issue": "[From_The_Argus.]_New_Zealand._Wellington,_November_17..Json",
+    "nzness": 2,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 184
+  },
+  {
+    "articleID": "12290578",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand._The_Vancouver_Contract._Dunedin,_February_5..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 147
+  },
+  {
+    "articleID": "12294692",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand._Wellington,_March_8..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 28
+  },
+  {
+    "articleID": "9196111",
+    "issue": "A_Disabled_New_Zealand_Bound_Brig..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Fremantle": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 3
+      }
+    ],
+    "wordCount": 356
+  },
+  {
+    "articleID": "10073873",
+    "issue": "A_Disturbing_Factor._Labour_In_New_Zealand._Avellington,_August_29..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 94
+  },
+  {
+    "articleID": "12820634",
+    "issue": "A_Message_To_New_Zealanders._Mrs._Dodds_And_Digestion._How_Bile_Beans_Cure..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Sydney": 1
+      },
+      {
+        "TISM": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "New Zealanders": 1
+      }
+    ],
+    "wordCount": 231
+  },
+  {
+    "articleID": "12653680",
+    "issue": "A_New_Zealander_Abroad..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "JAB": 1
+      },
+      {
+        "Mr G": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 3
+      }
+    ],
+    "wordCount": 570
+  },
+  {
+    "articleID": "9918433",
+    "issue": "A_New_Zealander_In_India._Dining_With_The_Amir..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 961
+  },
+  {
+    "articleID": "1031992",
+    "issue": "A_New_Zealander_In_Petrograd._Effects_Of_The_War._Determination_Of_The_People._Problem_Of_The_Refugees..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Mr G": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Kea": 1
+      }
+    ],
+    "wordCount": 955
+  },
+  {
+    "articleID": "12278363",
+    "issue": "A_New_Zealand_Barristerqs_Financial_Affairs..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 46
+  },
+  {
+    "articleID": "12739783",
+    "issue": "A_New_Zealand_Coal_Company._March_9..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 22
+  },
+  {
+    "articleID": "12268172",
+    "issue": "A_New_Zealand_Company._Five_Per_Cent._Dividend..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 101
+  },
+  {
+    "articleID": "12661258",
+    "issue": "A_New_Zealand_Company._The_Yearqs_Operations._London,_November_23..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 72
+  },
+  {
+    "articleID": "23623979",
+    "issue": "A_New_Zealand_Contingent._Over_8,000_Volunteers._Wellington,_September_20..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "ACTION": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 99
+  },
+  {
+    "articleID": "12274719",
+    "issue": "A_New_Zealand_Estate_Question..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 56
+  },
+  {
+    "articleID": "10426248",
+    "issue": "A_New_Zealand_Hero._Faithful_To_The_Death._London,_August_20..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 182
+  },
+  {
+    "articleID": "12799947",
+    "issue": "A_New_Zealand_Horse..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 26
+  },
+  {
+    "articleID": "12700185",
+    "issue": "A_New_Zealand_Liner_Burnt..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 73
+  },
+  {
+    "articleID": "12801027",
+    "issue": "A_New_Zealand_Loan..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      },
+      {
+        "Kea": 1
+      }
+    ],
+    "wordCount": 165
+  },
+  {
+    "articleID": "12827216",
+    "issue": "A_New_Zealand_Lockout._Passive_Resistance_By_Tallorbsses..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Eora": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Dunedin": 1
+      }
+    ],
+    "wordCount": 570
+  },
+  {
+    "articleID": "12806507",
+    "issue": "A_New_Zealand_Mine..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 22
+  },
+  {
+    "articleID": "10405986",
+    "issue": "A_New_Zealand_Murdeh._Execution_Of_A_German._Welltngton,_March_8..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 72
+  },
+  {
+    "articleID": "23693596",
+    "issue": "A_New_Zealand_Murder._Extraordinary_Statement_By_The_Prisoner._A_Nightmare._Wellington,_August_21..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "The Fat": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 255
+  },
+  {
+    "articleID": "10387513",
+    "issue": "A_New_Zealand_Tragedy._Brutal_Murder_Of_A_Woman._Auckland,_September_29..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      }
+    ],
+    "wordCount": 78
+  },
+  {
+    "articleID": "23664515",
+    "issue": "A_Peculiar_Will._Macaulayqs_New_Zealander_On_London_Bridge._(Australian_Press_Association.)_London,_November_10..Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Australia": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 134
+  },
+  {
+    "articleID": "8843232",
+    "issue": "A_Qtangiq_In_New_Zealand.Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "-up": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 1355
+  },
+  {
+    "articleID": "9106829",
+    "issue": "A_Rabbit_Battue_In_New_Zealand._[Lyttelton_Times.].Json",
+    "nzness": 1,
+    "topicsAUS": [
+      {
+        "Viewed": 1
+      },
+      {
+        "Bogan": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Cook Strait": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Foveaux Strait": 1
+      }
+    ],
+    "wordCount": 1302
+  },
+  {
+    "articleID": "10105286",
+    "issue": "A_Racing_Commission._New_Zealand_Meetings_Reduced._Auckland,_June_21..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      }
+    ],
+    "wordCount": 71
+  },
+  {
+    "articleID": "10371537",
+    "issue": "A_Seditious_Speech._Conviction_In_New_Zealand._Wellington_(N.Z.)._May_17..Json",
+    "nzness": 1,
+    "topicsAUS": [],
+    "topicsNZ": [
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 96
+  },
+  {
+    "articleID": "12405192",
+    "issue": "A_Bombshell_From_New_Zealand._London,_August_30..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 83
+  },
+  {
+    "articleID": "12840257",
+    "issue": "A_Dashing_Exploit._New_Zealanders,_Australians,_And_Imperial_Cavalry_Share_Honours..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 88
+  },
+  {
+    "articleID": "12814387",
+    "issue": "A_New_Zealanderqs_Estate..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 23
+  },
+  {
+    "articleID": "9207923",
+    "issue": "A_New_Zealander_On_Protection..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 56
+  },
+  {
+    "articleID": "9234882",
+    "issue": "A_New_Zealand_Harbour_Trust..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 64
+  },
+  {
+    "articleID": "9207351",
+    "issue": "A_New_Zealand_Legislator_On_Federation..Json",
+    "nzness": 0,
+    "topicsAUS": [
+      {
+        "Australia": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 88
+  },
+  {
+    "articleID": "9205885",
+    "issue": "A_New_Zealand_M.P._On_Exhibition-Music..Json",
+    "nzness": 0,
+    "topicsAUS": [
+      {
+        "Australia": 1
+      },
+      {
+        "Melbourne": 1
+      },
+      {
+        "The Pictures": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand House of Representatives": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Otago Daily Times": 1
+      },
+      {
+        "Otago": 1
+      }
+    ],
+    "wordCount": 648
+  },
+  {
+    "articleID": "12311669",
+    "issue": "A_Party_Op_Progress._(Qnew_Zealand_Herald.Q).Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 914
+  },
+  {
+    "articleID": "9936899",
+    "issue": "A_Rifle_Match._New_Zealanders_Defeat_British._(Special\u00e2\u0080\u0094By_Cable\u00e2\u0080\u0094Copyright.)_Sydney,_November_1..Json",
+    "nzness": 0,
+    "topicsAUS": [
+      {
+        "2CA": 1
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 166
+  },
+  {
+    "articleID": "1044990",
+    "issue": "A_Soldiersq_Club._Appeal_To_New_Zealand._London,_June_3..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 46
+  },
+  {
+    "articleID": "9131382",
+    "issue": "[From_Melbourne_Papers.[Q]_New_Zealand._Auckland,_February_10..Json",
+    "nzness": 0,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 200
+  },
+  {
+    "articleID": "9207275",
+    "issue": "[From_Melbourne_Papers.]_New_Zealand._Auckland,_February_18..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 220
+  },
+  {
+    "articleID": "12730703",
+    "issue": "[Q]Pean_Telegrams_[By_Submarine_Cable.]_[From_Our_Own_Correspondent.]_Resignation_[Q]_Governor_Of_New_Zealand._London,_November_16..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 48
+  },
+  {
+    "articleID": "9939663",
+    "issue": "[Q]Ucby_Football._New_Zealanders_Defeat_Swinton._London,_December_4..Json",
+    "nzness": 0,
+    "topicsAUS": [],
+    "topicsNZ": [],
+    "wordCount": 76
+  },
+  {
+    "articleID": "8942629",
+    "issue": "A_Financial_Crisis_In_New_Zealand..Json",
+    "nzness": -1,
+    "topicsAUS": [
+      {
+        "JAB": 1
+      },
+      {
+        "Neighbours": 3
+      },
+      {
+        "-up": 1
+      },
+      {
+        "Australia": 6
+      },
+      {
+        "Nomis": 1
+      },
+      {
+        "TransACT": 1
+      },
+      {
+        "New South Wales": 1
+      },
+      {
+        "ACTION": 2
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 15
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 3213
+  },
+  {
+    "articleID": "12309549",
+    "issue": "(From_Melbourne_Papers.)_New_Zealand_Floods._Exciting_Scenes._Dunedin,_June_26..Json",
+    "nzness": -2,
+    "topicsAUS": [
+      {
+        "7.30": 1
+      },
+      {
+        "Eora": 1
+      },
+      {
+        "E Street": 3
+      },
+      {
+        "-up": 1
+      },
+      {
+        "Melbourne": 1
+      },
+      {
+        "ATN": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Kaiapoi": 3
+      },
+      {
+        "Buller River": 1
+      },
+      {
+        "New Zealand": 1
+      },
+      {
+        "Dunedin": 1
+      }
+    ],
+    "wordCount": 816
+  },
+  {
+    "articleID": "23616711",
+    "issue": "A_Daring_Robbery._\u00c2\u00a39,000_Worth_Of_Jewellery_Stolen._Australian_And_New_Zealander_Sentenced._London,_December_2..Json",
+    "nzness": -2,
+    "topicsAUS": [
+      {
+        "Australia": 2
+      },
+      {
+        "E Street": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 269
+  },
+  {
+    "articleID": "13272353",
+    "issue": "A_New_Service_To_New_Zealand..Json",
+    "nzness": -2,
+    "topicsAUS": [
+      {
+        "Australia": 1
+      },
+      {
+        "Hobart": 1
+      },
+      {
+        "Tasmania": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "Auckland": 1
+      },
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 113
+  },
+  {
+    "articleID": "23781696",
+    "issue": "A_New_South_Wales_Disqualification._New_Zealand_Tribunal_Dismisses_Appeal._Wellington_(N.Z.),_December_1..Json",
+    "nzness": -2,
+    "topicsAUS": [
+      {
+        "Australia": 1
+      },
+      {
+        "The Australian": 1
+      },
+      {
+        "New South Wales": 2
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      },
+      {
+        "Wellington": 1
+      }
+    ],
+    "wordCount": 157
+  },
+  {
+    "articleID": "9973768",
+    "issue": "A_Disastrous_Wreck._Penguin_Lost_On_New_Zealand_Coast_Many_Acts_Of_Heroism._Seventy-Two_Persons_Missing_A_Tasmanian_Officer_Among_The_Drowned._Welling(...Truncated 17 Characters).Json",
+    "nzness": -3,
+    "topicsAUS": [
+      {
+        "Melbourne": 3
+      },
+      {
+        "Hobart": 6
+      },
+      {
+        "Tasmania": 3
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 3
+      },
+      {
+        "Union Company": 3
+      },
+      {
+        "Wellington": 3
+      },
+      {
+        "Dunedin": 1
+      }
+    ],
+    "wordCount": 1841
+  },
+  {
+    "articleID": "9684334",
+    "issue": "A_Juvenile_Court._(Qnew_Zealand_Times.Q).Json",
+    "nzness": -3,
+    "topicsAUS": [
+      {
+        "Myer": 1
+      },
+      {
+        "-up": 1
+      },
+      {
+        "TISM": 1
+      }
+    ],
+    "topicsNZ": [],
+    "wordCount": 1293
+  },
+  {
+    "articleID": "12824281",
+    "issue": "A_Message_From_Mars._(By_Qtohunga,Q_Qnew_Zealand_Herald.Q).Json",
+    "nzness": -4,
+    "topicsAUS": [
+      {
+        "Bogan": 1
+      },
+      {
+        "Nomis": 1
+      },
+      {
+        "-up": 1
+      },
+      {
+        "ACTION": 1
+      }
+    ],
+    "topicsNZ": [],
+    "wordCount": 1462
+  },
+  {
+    "articleID": "9417225",
+    "issue": "A_New_Zealand_Miracle._Great_Excitement_In_The_Featherson_District..Json",
+    "nzness": -5,
+    "topicsAUS": [
+      {
+        "Sydney": 1
+      },
+      {
+        "Pink Pills": 4
+      },
+      {
+        "TISM": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 1
+      }
+    ],
+    "wordCount": 927
+  },
+  {
+    "articleID": "23476258",
+    "issue": "A_Ross_Industry._Manufacture_Of_Grindstones._Exports_To_Mainland_And_New_Zealand..Json",
+    "nzness": -5,
+    "topicsAUS": [
+      {
+        "Melbourne": 1
+      },
+      {
+        "The Age": 1
+      },
+      {
+        "ATN": 1
+      },
+      {
+        "Infini": 1
+      },
+      {
+        "Tasmania": 3
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 640
+  },
+  {
+    "articleID": "9002823",
+    "issue": "A_New_Zealand_Wheat_Speculation._[From_The_Diary_Of_A_Qforestaller_And_Regrater.Q].Json",
+    "nzness": -6,
+    "topicsAUS": [
+      {
+        "Neighbours": 1
+      },
+      {
+        "TransACT": 2
+      },
+      {
+        "The Poor": 2
+      },
+      {
+        "ACTION": 2
+      },
+      {
+        "The Crop": 1
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 2
+      }
+    ],
+    "wordCount": 1450
+  },
+  {
+    "articleID": "8854528",
+    "issue": "A_Piratical_Vessel,_Forty_Years_Ago._(From_A_New_Zealand_Correspondent.).Json",
+    "nzness": -7,
+    "topicsAUS": [
+      {
+        "Emu": 1
+      },
+      {
+        "Vigoro": 1
+      },
+      {
+        "Norfolk Island": 4
+      },
+      {
+        "Hobart": 1
+      },
+      {
+        "ACTION": 1
+      },
+      {
+        "Sydney": 8
+      }
+    ],
+    "topicsNZ": [
+      {
+        "New Zealand": 3
+      },
+      {
+        "Government of New Zealand": 1
+      },
+      {
+        "Haka": 1
+      },
+      {
+        "Auckland": 1
+      },
+      {
+        "Tauranga": 1
+      },
+      {
+        "Wellington": 2
+      }
+    ],
+    "wordCount": 3342
+  },
+  {
+    "articleID": "13280789",
+    "issue": "[From_Melbourne,_Sydney_And_New_Zealand_Papers.]_Victoria._Bairknsdale,_December_16..Json",
+    "nzness": -8,
+    "topicsAUS": [
+      {
+        "Geelong": 1
+      },
+      {
+        "Bendigo": 1
+      },
+      {
+        "Kerang": 1
+      },
+      {
+        "Australia": 1
+      },
+      {
+        "Melbourne": 2
+      },
+      {
+        "ACTION": 1
+      },
+      {
+        "Sydney": 1
+      }
+    ],
+    "topicsNZ": [],
+    "wordCount": 755
+  }
+]
