@@ -1,0 +1,5 @@
+blacklistLabels:
+  - "^[0-9]*$" #exclude labels that are just a number
+  - "^.$" #exclude very short labels 1 char
+blacklistArticleHeadings:
+  - "^Advertising$"
