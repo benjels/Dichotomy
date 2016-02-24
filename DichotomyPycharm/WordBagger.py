@@ -10,10 +10,24 @@ class WordBagger:
 
     def __init__(self, labelToTitlesAUS, labelToTitlesNZ, verbose=True):
         self.processedTroves = []
-        self.labelToTitlesAUS = labelToTitlesAUS
-        self.labelToTitlesNZ = labelToTitlesNZ
         self.verbose = verbose
         self.farmer = Farmer()
+        #these are for seeing which detected topic to increment the count of when labels detected in the text
+        self.labelToTitlesAUS = labelToTitlesAUS
+        self.labelToTitlesNZ = labelToTitlesNZ
+        #these are the labels sorted by length in chars (descending order). These are to help us avoid collisions.
+        #E.g. we search for "Islands" before we search for "Island". Once we have counted all occurences of "Islands"
+        #we replace all of those occurences with a blocking character "|" so that when we search for "Island", we don't
+        #count occurences of the string "Islands"
+        labelsListAUS = list(labelToTitlesAUS.keys())
+        labelsListAUS.sort(key=len, reverse=True)
+        self.allLabelsAUS = labelsListAUS
+        labelsListNZ = list(labelToTitlesNZ.keys())
+        labelsListNZ.sort(key=len, reverse=True)
+        self.allLabelsNZ = labelsListNZ
+
+
+
 
 
 
@@ -31,8 +45,8 @@ class WordBagger:
                         if not articleDict["category"] == "Advertising": #TODO: swap this out for checking a blacklist settings item against the title
                             print("about to examine the following article (will look for aus stuff first): " + articleDict["heading"])#TODO: delete this debug stuff
                             #get this article's topics
-                            detectedTopicsAUS = self.examineText(articleDict["fulltext"], self.labelToTitlesAUS)
-                            detectedTopicsNZ = self.examineText(articleDict["fulltext"], self.labelToTitlesNZ)#TODO: should really just make one call and pass both dctionaries as it is more efficient that way
+                            detectedTopicsAUS = self.examineText(articleDict["fulltext"], self.labelToTitlesAUS, self.allLabelsAUS)
+                            detectedTopicsNZ = self.examineText(articleDict["fulltext"], self.labelToTitlesNZ, self.allLabelsNZ)#TODO: should really just make one call and pass both dctionaries as it is more efficient that way
                             #count total occurences of all of the nz and aus topic labels. also fill in lists of the detected topic names to be outputted in json
                             topicsAUS = []
                             AUSTopicOccurences = 0
@@ -49,12 +63,13 @@ class WordBagger:
                             heading = articleDict["heading"]
                             articleID = articleDict["id"]
                             wordCount = articleDict["wordCount"]
+                            nztotal = NZTopicOccurences
                             #calculate some nzness measure
                             if AUSTopicOccurences == 0:
                                 nzness = NZTopicOccurences
                             else:
                                 nzness = (NZTopicOccurences - AUSTopicOccurences)
-                            self.processedTroves.append({"issue":issue, "heading":heading,  "articleID":articleID, "topicsNZ":topicsNZ, "topicsAUS":topicsAUS, "wordCount":wordCount, "nzness":nzness})
+                            self.processedTroves.append({"issue":issue, "heading":heading,  "articleID":articleID, "topicsNZ":topicsNZ, "topicsAUS":topicsAUS, "wordCount":wordCount, "nzness":nzness, "nztotal":nztotal})
                     end = time.clock() - start #TODO: remove this
                     print("took the following secs to process that file: " + str(end))#TODO: remove this
         return self.processedTroves
@@ -62,20 +77,28 @@ class WordBagger:
 
 
     #takes some text and updates the detectedTopics dict when it finds labels in the text
-    def examineText(self, fulltext, labelToTitles):
+    def examineText(self, fulltext, labelToTitles, allLabels):
         start = time.clock()#TODO: remove this
+        fulltextLowered = fulltext.lower()
         detectedTopics = {}
-        for eachLabel in labelToTitles:#TODO: should actually check for collisions
-            for eachInstanceFound in range(fulltext.lower().count(eachLabel.lower())): #we should mark the label as detected one time for each time we count that label in the article's body text
+        for eachLabel in allLabels:
+            labelOccurencesCount = fulltextLowered.count(eachLabel.lower())
+            for eachInstanceFound in range(labelOccurencesCount): #we should mark the label as detected one time for each time we count that label in the article's body text#TODO: consider passing count of detections as an arg to the addLabel method or something rather than just looping over add behaviour. maybe not tho, would need to add if block to check whether count > 0 for purposes of calling remove() etc so watev
                 if self.verbose:
                     print("found the label: " + eachLabel)
                     print("which pertains to the topic titles: " + str(labelToTitles.get(eachLabel)))
                 #if this topic has not been detected, we should add it to the map
+                #NOTE: that at the moment this accomodates each label mapping to an arbitrary amount of topics.
                 topicTitles = labelToTitles.get(eachLabel)
                 for eachTopicTitle in topicTitles:
                     if eachTopicTitle not in detectedTopics:
                         detectedTopics[eachTopicTitle] = DetectedTopic(eachTopicTitle)
                     detectedTopics[eachTopicTitle].addLabel(eachLabel)
+            #if we found the label at least once, we should remove all of its occurences to stop collisions with shorter labels
+            fulltextLowered = fulltextLowered.replace(eachLabel.lower(), "|", labelOccurencesCount)
+
+
+
         end = time.clock() - start #TODO: remove this
         print("took the following secs to process that text: " + str(end))#TODO: remove this
         return detectedTopics

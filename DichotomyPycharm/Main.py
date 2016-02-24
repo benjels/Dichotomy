@@ -9,8 +9,9 @@ import re
 
 PATH_TO_CSVAUS = "C:\\gitRepos\\TopicLabelsGit\\onlyTitlesAus23rd.csv"
 PATH_TO_CSVNZ = "C:\\gitRepos\\TopicLabelsGit\\onlyTitles19th.csv"
-PATH_TO_TROVE_JSON = "I:\\TAS\\10\\1860\\"
+PATH_TO_TROVE_JSON = "I:\\TAS\\"
 PATH_TO_SETTINGS_YML = "settings.yml"
+OUTPUT_NAME = "TAS.json"#needs ".json" extension here
 
 
 
@@ -24,13 +25,13 @@ def main():
     labelToTitlesAUS = generateDict(rowsAUS, settings)
     labelToTitlesNZ = generateDict(rowsNZ, settings)
     #create the word bagger and set it off
-    wordBagger = WordBagger(labelToTitlesAUS, labelToTitlesNZ, verbose=False)
+    wordBagger = WordBagger(labelToTitlesAUS, labelToTitlesNZ, verbose=True)
     troves = wordBagger.processFiles(PATH_TO_TROVE_JSON)
     #let's sort it so that really relevant articles are at the top...
     troves.sort(key=lambda x: x["nzness"], reverse=True)
     #write our result back to file
     busyFarmer = Farmer()
-    busyFarmer.write_json(troves, "1860wholeyear.json")
+    busyFarmer.write_json(troves, OUTPUT_NAME)
 
 
 
