@@ -84,8 +84,8 @@ class Farmer:
         return rows
 
     def list_to_csv(self, data, f_path):
-        with open(f_path, 'wb') as f:
-            writer = csv.writer(f)
+        with open(f_path, 'w', encoding="utf8") as f:
+            writer = csv.writer(f, lineterminator='\n', delimiter="\t")
             writer.writerows(data)
         if self.verbose:
             print('Wrote {}.'.format(f_path))
