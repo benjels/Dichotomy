@@ -9,11 +9,13 @@ import re
 
 PATH_TO_CSVAUS = "C:\\gitRepos\\TopicLabelsGit\\onlyTitlesAus23rd.csv"
 PATH_TO_CSVNZ = "C:\\gitRepos\\TopicLabelsGit\\onlyTitles19th.csv"
-PATH_TO_TROVE_JSON = "I:\\TAS\\10\\1860\\"
+PATH_TO_TROVE_JSON = "I:\\TAS\\10\\1900\\"
 PATH_TO_SETTINGS_YML = "settings.yml"
-OUTPUT_NAME = "graph.csv"#needs ".json"
-CSV_OUTPUT_NODES_NAME = "nodes1860.csv"
-CSV_OUTPUT_EDGES_NAME = "edges1860.csv"
+OUTPUT_NAME = "output26th1900.json"
+CSV_OUTPUT_NODES_NAME = "nodes1900.csv"
+CSV_OUTPUT_EDGES_NAME = "edges1900.csv"
+OUTPUT_AS_JSON = True
+OUTPUT_AS_CSV = True
 
 
 def main():
@@ -31,16 +33,22 @@ def main():
     #let's sort it so that really relevant articles are at the top...
     troves.sort(key=lambda x: x["nzness"], reverse=True)
     #write our result back to file
-    outputAsCSV(troves, labelToTitlesAUS, labelToTitlesNZ, OUTPUT_NAME)
+    if OUTPUT_AS_CSV:
+        outputAsCSV(troves, labelToTitlesAUS, labelToTitlesNZ, OUTPUT_NAME)
+    if OUTPUT_AS_JSON:
+        outputAsJSON(troves, OUTPUT_NAME)
 
 
 #used to output as csv for gephi rather than in the standard, json form
+#NOTE: EDGES FROM TROVE ARTICLES TO AUSTRALIAN TOPICS ARE NOT BEING GENERATED, NODES FOR AUSTRALIAN TOPICS ARE NOT BEING GENERATED. This is because it is easier to work with less nodes/edges in gephi.
 def outputAsCSV(troves, labelToTitlesAUS, labelToTitlesNZ, outputName):
     #for the csv outputs, we need to convert the list of dicts into a list of lists where each element in list 1 is a Trove article and each element in list 2 is info on that article
     farmer = Farmer()
 
     #form the nodes csv
     nodes = []
+    #add the headers
+    nodes.append(["id", "label", "nodeType"])
     for eachTrove in troves:
         nodeID = eachTrove["articleID"]
         title =  eachTrove["heading"]
@@ -61,6 +69,8 @@ def outputAsCSV(troves, labelToTitlesAUS, labelToTitlesNZ, outputName):
     #note that building the edges is a little ugly because we are just using the information which
     #was structured to be written as json.
     edges = []
+    #add the headers
+    edges.append(["edgeID", "source", "target", "weight"])
     edgeIDIndex = 0
     for eachTrove in troves:
         # for eachTopic1RelationDict in eachTrove["topicsAUS"]:

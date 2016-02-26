@@ -64,11 +64,11 @@ class WordBagger:
                             articleID = articleDict["id"]
                             wordCount = articleDict["wordCount"]
                             nztotal = NZTopicOccurences
-                            #calculate some nzness measure
-                            if AUSTopicOccurences == 0:
+                            #calculate some nzness measure #TODO: this is kinda experimental. this should be externalised to another method when i figure out what relatedness is
+                            if AUSTopicOccurences == 0:  #at the moment an article loses relatedness if there are lots of australian topics present and if it is very long. But it doesn't lose much.
                                 nzness = NZTopicOccurences
                             else:
-                                nzness = (NZTopicOccurences - AUSTopicOccurences)
+                                nzness = (NZTopicOccurences - (AUSTopicOccurences / 4) - (len(articleDict["fulltext"])/ 1000))
                             self.processedTroves.append({"issue":issue, "heading":heading,  "articleID":articleID, "topicsNZ":topicsNZ, "topicsAUS":topicsAUS, "wordCount":wordCount, "nzness":nzness, "nztotal":nztotal})
                     end = time.clock() - start #TODO: remove this
                     print("took the following secs to process that file: " + str(end))#TODO: remove this
